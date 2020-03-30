@@ -24,7 +24,6 @@ import ErrorPage from './pages/404';
 import Register from './pages/Register'
 import Users from './pages/Users'
 import Login from './pages/Login'
-// import Maps from './pages/maps/Maps'
 import ReceiveMaps from './pages/maps/ReceiveMaps'
 import Receive from './pages/Receive'
 import Donate from './pages/Donate'
