@@ -19,6 +19,7 @@ class Users extends Component {
   componentDidMount() {
     this.props.firebase.getHandshake().then((snap) => {
       snap.docs.forEach((doc, i) => {
+        //console.log(doc.data)
         this.setState(state => ({
           users: [...state.users, {user1: doc.data().user1, user2: doc.data().user2, time: doc.data().time, place: doc.data().place }]
         }))
