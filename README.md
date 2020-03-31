@@ -11,7 +11,7 @@ As there is shortage of many things like masks, medicines and food. Our web appl
 
 
 
-[Demo Video](https://www.youtube.com/watch?v=xY4VDJLcsSM)
+[Demo Video](https://drive.google.com/file/d/11yn07gy4CClKUDkgqotuCs3M7q1J1QFE/view?usp=sharing)
 
 
 
