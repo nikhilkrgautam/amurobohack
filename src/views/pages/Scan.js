@@ -233,6 +233,7 @@ class Scan extends Component {
   }
 
   onSubmit = () => {
+    console.log("Submitted")
     this.props.handshake(this.state.bikeId, this.state.time, this.state.distance)
     // this.setState({submitted: true})
   }
