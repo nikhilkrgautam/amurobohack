@@ -72,6 +72,7 @@ class Login extends Component {
 
   handleSubmit = (e) => {
     e.preventDefault()
+    console.log("Submitting...")
 
     let foo = 0
     for (var item in this.state.success) {
